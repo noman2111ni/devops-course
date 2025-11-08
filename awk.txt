@@ -1,0 +1,4 @@
+name age
+nomi 22
+ali 23
+hamza 24
