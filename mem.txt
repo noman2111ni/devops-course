@@ -1,5 +1,0 @@
-PID %MEM COMMAND
-273 0.5 /usr/bin/python3
-53 0.4 /usr/lib/systemd/systemd-journald
-112 0.3 /usr/lib/systemd/systemd-resolved
-194 0.3 /usr/libexec/wsl-pro-service
