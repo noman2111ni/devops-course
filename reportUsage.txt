@@ -1,0 +1,22 @@
+=======================
+       Usage System        
+==========================
+Check Date and Time Tue Nov 11 11:10:35 PKT 2025
+
+Top 5 CPU-consuming processes: 
+    PID COMMAND         %CPU
+   1335 sudo             0.0
+      1 systemd          0.0
+   1276 sudo             0.0
+     59 systemd-journal  0.0
+   1359 sudo             0.0
+
+===================================
+Top 5 Memory Consuming Processes:
+    PID COMMAND         %MEM
+    229 unattended-upgr  0.5
+     59 systemd-journal  0.3
+    193 wsl-pro-service  0.3
+      1 systemd          0.3
+    118 systemd-resolve  0.3
+
